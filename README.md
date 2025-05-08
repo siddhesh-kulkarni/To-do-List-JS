@@ -7,7 +7,7 @@ Quickly add 📝, check ✅, and delete ❌ tasks — with your progress saved i
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://YOUR_LIVE_DEMO_URL_HERE)
+👉 [View Live Demo](https://siddhesh-kulkarni.github.io/To-do-List-JS/)
 
 ---
 
