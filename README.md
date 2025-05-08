@@ -3,19 +3,13 @@
 A clean and responsive To-Do List web app built with HTML, CSS, and JavaScript ✨  
 Quickly add 📝, check ✅, and delete ❌ tasks — with your progress saved in local storage 💾.
 
----
-
 ## 🌐 Live Demo
 
 👉 [View Live Demo](https://siddhesh-kulkarni.github.io/To-do-List-JS/)
 
----
-
 ## 🖼️ Screenshot
 
 ![To-Do App Screenshot](todo.png)
-
----
 
 ## ✨ Features
 
@@ -26,16 +20,12 @@ Quickly add 📝, check ✅, and delete ❌ tasks — with your progress saved i
 - 📱 Fully responsive design for mobile and desktop
 - 🖼️ Custom checked/unchecked icons
 
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3 (Flexbox + Media Queries)
 - JavaScript (ES6)
 - `localStorage` for persistent data
-
----
 
 ## 🚀 Getting Started
 
