@@ -32,3 +32,5 @@ Quickly add 📝, check ✅, and delete ❌ tasks — with your progress saved i
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/siddhesh-kulkarni/todo-list-app.git
+
+This repo is public and useful for beginners.
